@@ -1,4 +1,7 @@
 baseURL = 'https://hagachan.pages.dev/'
-languageCode = 'jp'
+languageCode = 'ja-jp'
 title = '初めてのブログ'
-theme = 'ananke'
+theme = 'mainroad'
+
+[params]
+  description = '自分の身近で起こった出来事のブログです。'
