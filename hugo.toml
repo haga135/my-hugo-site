@@ -4,6 +4,12 @@ title = '初めてのブログ'
 theme = 'mainroad'
 
 [params]
-  description = '自分の身近で起こった出来事のブログです。'
-  post_date = true
-  post_updated = true
+  description = "John Doe's Personal blog about everything" # Description of your site
+  opengraph = true
+  twitter_cards = false
+  readmore = false # Show "Read more" button in list if true
+  authorbox = true
+  pager = true
+  post_meta = ["date", "categories"] # Order of post meta information
+  
+  
