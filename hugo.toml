@@ -11,7 +11,4 @@ theme = 'mainroad'
   authorbox = true
   pager = true
   post_meta = ["date", "categories"] # Order of post meta information
-
-  
-
-  
+ 
