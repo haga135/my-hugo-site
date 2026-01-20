@@ -2,6 +2,8 @@ baseURL = 'https://hagachan.pages.dev/'
 languageCode = 'ja-jp'
 title = '初めてのブログ'
 theme = 'mainroad'
+hasCJKLanguage = true
+summaryLength = 100
 
 [params]
   description = "John Doe's Personal blog about everything" # Description of your site
