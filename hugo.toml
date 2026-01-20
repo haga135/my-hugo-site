@@ -1,4 +1,4 @@
 baseURL = 'https://hagachan.pages.dev/'
 languageCode = 'jp'
-title = 'My New Hugo Site'
+title = '初めてのブログ'
 theme = 'ananke'
