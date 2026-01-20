@@ -5,3 +5,5 @@ theme = 'mainroad'
 
 [params]
   description = '自分の身近で起こった出来事のブログです。'
+  post_date = true
+  post_updated = true
