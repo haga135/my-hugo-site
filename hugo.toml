@@ -16,4 +16,4 @@ summaryLength = 100
   authorbox = true
   pager = true
   post_meta = ["date", "categories"] # Order of post meta information
- 
+  customCSS = ["css/custom.css"]

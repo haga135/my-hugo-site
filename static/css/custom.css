@@ -1,0 +1,8 @@
+/* アイキャッチ画像のサイズを統一する */
+.list__thumbnail-img,
+.post__thumbnail-img {
+  width: 100%; /* 横幅は枠いっぱいに */
+  height: 300px; /* 高さを300pxに固定（お好みで調整してください） */
+  object-fit: cover; /* 縦横比を保ったまま、枠に合わせて切り抜く */
+  object-position: center; /* 中央を表示 */
+}
