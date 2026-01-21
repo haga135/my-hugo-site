@@ -16,6 +16,13 @@
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
     </item>
     <item>
+      <title>【Unity】玉転がし開発秘話！苦労と工夫を乗り越えて完成？！</title>
+      <link>http://localhost:1313/posts/roll-a-ball-unity/</link>
+      <pubDate>Sun, 09 Mar 2025 15:43:31 +0900</pubDate>
+      <guid>http://localhost:1313/posts/roll-a-ball-unity/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;ゲームの概要：Unity learn チュートリアルの3Dゲーム&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;開発のきっかけ：ゲームクリエイターのひろはすさんのyoutubeで紹介されていました&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;開発中の苦労：チュートリアルに沿って進めていきましたが、途中でつまる→龍神リウズさんのチュートリアル動画を見ながら完成&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>ネット回線の選び方｜目的・料金・速度で比較！初心者向けに解説</title>
       <link>http://localhost:1313/posts/broadband-homerooter/</link>
       <pubDate>Sat, 01 Mar 2025 17:13:52 +0900</pubDate>
