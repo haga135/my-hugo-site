@@ -14,17 +14,17 @@ title = 'このブログを始めるきっかけについてその2'
 
 プロキシサーバーの存在を隠す設定
 
-_request_header_access X-Forwarded-For deny all_
-_request_header_access Via deny all_
-_request_header_access Cache-Control deny all_
+**request_header_access X-Forwarded-For deny all**
+**request_header_access Via deny all**
+**request_header_access Cache-Control deny all**
 
-_reply_header_access X-Forwarded-For deny all_
-_reply_header_access Via deny all_
-_reply_header_access Cache-Control deny all_
+**reply_header_access X-Forwarded-For deny all**
+**reply_header_access Via deny all**
+**reply_header_access Cache-Control deny all**
 
 を追記。デフォルトのポート番号3128は使わないのでコメントアウトして
 
-_http_port ○○○○　（各自の設定）_
+**http_port ○○○○　（各自の設定）**
 
 を追記。認証方式はbasic認証を設定しました。
 

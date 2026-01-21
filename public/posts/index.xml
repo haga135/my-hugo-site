@@ -5,7 +5,7 @@
     <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on 初めてのブログ</description>
     <generator>Hugo</generator>
-    <language>ja-jp</language>
+    <language>ja</language>
     <lastBuildDate>Tue, 20 Jan 2026 13:59:19 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,13 @@
       <pubDate>Tue, 20 Jan 2026 13:59:19 +0900</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>このブログを始めるきっかけについてその3</title>
+      <link>http://localhost:1313/posts/blog-start-rs-3/</link>
+      <pubDate>Sat, 22 Jun 2024 02:52:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/blog-start-rs-3/</guid>
+      <description>&lt;p&gt;![?]https://snakewoman.blog/wp-content/uploads/2024/02/illust1129_thumb.gif&lt;/p&gt;&#xA;&lt;h2 id=&#34;wordpressテーマtwenty-twoのカスタマイズ方法はどうやって&#34;&gt;WordpressテーマTwenty twoのカスタマイズ方法はどうやって？&lt;/h2&gt;&#xA;&lt;p&gt;ローカル環境にWordpressをインストールして、眺めてみたり、どこかへ出掛けたときの写真を投稿していたのですが、カスタマイズのやり方がさっぱりわからず、適当な記事を書いて個人的に楽しむだけで、とても他人に見せるようなものではありませんでした。&lt;/p&gt;</description>
     </item>
     <item>
       <title>このブログを始めるきっかけについてその2</title>
