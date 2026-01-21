@@ -1,7 +1,10 @@
 baseURL = 'https://hagachan.pages.dev/'
-languageCode = 'ja-jp'
 title = '初めてのブログ'
 theme = 'mainroad'
+
+languageCode = 'ja'
+DefaultContentLanguage = 'ja'
+
 hasCJKLanguage = true
 summaryLength = 100
 
