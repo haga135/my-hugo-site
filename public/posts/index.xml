@@ -16,6 +16,13 @@
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
     </item>
     <item>
+      <title>初詣に行ってきました</title>
+      <link>http://localhost:1313/posts/first-shrine-iwashimizuhachimangu/</link>
+      <pubDate>Mon, 20 Jan 2025 17:35:48 +0900</pubDate>
+      <guid>http://localhost:1313/posts/first-shrine-iwashimizuhachimangu/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://snakewoman.blog/wp-content/uploads/2025/01/PSX_001_BURST20250120131854-scaled.jpg&#34; alt=&#34;?&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;石清水八幡宮に初詣&lt;/p&gt;&#xA;&lt;p&gt;去年は夜に来て工事中で写真を撮る状態ではなかったので‥‥。&lt;/p&gt;&#xA;&lt;p&gt;今年は昼間に来る事ができて、写真を撮ることが出来ました。&lt;/p&gt;&#xA;&lt;p&gt;とても引き締まった気持ちになりました。&lt;/p&gt;&#xA;&lt;p&gt;昼間だったので展望台にもいった～&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://snakewoman.blog/wp-content/uploads/2025/01/PSX_001_BURST20250120133023-scaled.jpg&#34; alt=&#34;?&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;帰り道から見えた灯篭に囲まれた境内&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>須磨海浜公園に行ってきました</title>
       <link>http://localhost:1313/posts/kobe-suma-seaside-park/</link>
       <pubDate>Sun, 11 Aug 2024 23:09:20 +0900</pubDate>
@@ -42,6 +49,13 @@
       <pubDate>Sat, 24 Feb 2024 15:23:00 +0900</pubDate>
       <guid>http://localhost:1313/posts/blog-start-rs/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://snakewoman.blog/wp-content/uploads/2024/02/illust1129_thumb.gif&#34; alt=&#34;?&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;お名前vpsサーバを契約&#34;&gt;お名前vpsサーバを契約&lt;/h2&gt;&#xA;&lt;p&gt;Wordpressバージョン5.9以前からローカル環境にWordpressをインストールして眺めてみたり、記事を書いてみたりしていました。ブロックエディターの使い方が全くわからずスマートフォンで撮った写真を投稿する程度の使い方しかしていません。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>【WordPress】ショートコードで投稿IDやスラッグから記事の内部リンクを作成する</title>
+      <link>http://localhost:1313/posts/add-postlink/</link>
+      <pubDate>Sat, 10 Feb 2024 11:02:38 +0900</pubDate>
+      <guid>http://localhost:1313/posts/add-postlink/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://snakewoman.blog/wp-content/uploads/2024/02/illust1129_thumb.gif&#34; alt=&#34;?&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;投稿記事へのリンクを設置したい&#34;&gt;投稿記事へのリンクを設置したい&lt;/h2&gt;&#xA;&lt;p&gt;記事にタイトルのリンクを追加するショートコードを作成するサンプルです。&lt;/p&gt;&#xA;&lt;p&gt;ワードプレスでブログをやっていると別の投稿ページへのリンクを設置したいときがありますよね？&lt;/p&gt;&#xA;&lt;p&gt;そんなときどうすれば簡単にリンクを設置する事ができるのか調べてみました！&lt;/p&gt;</description>
     </item>
     <item>
       <title>ワードプレス運用状況</title>
