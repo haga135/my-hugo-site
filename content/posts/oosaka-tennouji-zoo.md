@@ -2,9 +2,8 @@
 date = '2025-08-17T14:03:51+09:00'
 draft = false
 title = '天王寺動物園に行ってきました。'
+thumbnail = "https://snakewoman.blog/wp-content/uploads/2025/08/IMG_20250816_171749-scaled.jpg"
 +++
-
-![?](https://snakewoman.blog/wp-content/uploads/2025/08/IMG_20250816_171749-scaled.jpg)
 
 大阪の天王寺動物園に行ってきました。
 
