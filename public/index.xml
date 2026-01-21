@@ -79,7 +79,7 @@
       <description>&lt;p&gt;&lt;img src=&#34;https://snakewoman.blog/wp-content/uploads/2024/02/illust1129_thumb.gif&#34; alt=&#34;?&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;お名前vpsサーバを契約&#34;&gt;お名前vpsサーバを契約&lt;/h2&gt;&#xA;&lt;p&gt;Wordpressバージョン5.9以前からローカル環境にWordpressをインストールして眺めてみたり、記事を書いてみたりしていました。ブロックエディターの使い方が全くわからずスマートフォンで撮った写真を投稿する程度の使い方しかしていません。&lt;/p&gt;</description>
     </item>
     <item>
-      <title>【WordPress】ショートコードで投稿IDやスラッグから記事の内部リンクを作成する</title>
+      <title>ショートコードで投稿IDやスラッグから記事の内部リンクを作成する</title>
       <link>http://localhost:1313/posts/add-postlink/</link>
       <pubDate>Sat, 10 Feb 2024 11:02:38 +0900</pubDate>
       <guid>http://localhost:1313/posts/add-postlink/</guid>

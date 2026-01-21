@@ -1,7 +1,7 @@
 +++
 date = '2024-02-10T11:02:38+09:00'
 draft = false
-title = '【WordPress】ショートコードで投稿IDやスラッグから記事の内部リンクを作成する'
+title = 'ショートコードで投稿IDやスラッグから記事の内部リンクを作成する'
 thumbnail = "https://snakewoman.blog/wp-content/uploads/2024/01/screenshot-1.png"
 +++
 
@@ -17,7 +17,7 @@ thumbnail = "https://snakewoman.blog/wp-content/uploads/2024/01/screenshot-1.png
 
 最近はブロックエディターを使って記事を書くと思いますので、ブロックエディターを前提としてやる方法をまとめてみました。
 
-- ワードプレスで管理画面から新規投稿を追加\*\*
+- ワードプレスで管理画面から新規投稿を追加
 
 - タイトルを追加
 
