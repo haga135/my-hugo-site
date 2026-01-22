@@ -2,7 +2,7 @@
 date = '2024-02-24T15:23:00+09:00'
 draft = false
 title = 'このブログを始めるきっかけについて'
-thumbnail = "https://snakewoman.blog/wp-content/uploads/2024/01/screenshot-1.png"
+eyecatch = "https://snakewoman.blog/wp-content/uploads/2024/01/screenshot-1.png"
 +++
 
 ![](https://snakewoman.blog/wp-content/uploads/2024/02/illust1129_thumb.gif)

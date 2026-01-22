@@ -2,7 +2,7 @@
 date = '2025-01-20T17:35:48+09:00'
 draft = false
 title = '初詣に行ってきました'
-thumbnail = "https://snakewoman.blog/wp-content/uploads/2025/01/PSX_001_BURST20250120131854-scaled.jpg"
+eyecatch = "https://snakewoman.blog/wp-content/uploads/2025/01/PSX_001_BURST20250120131854-scaled.jpg"
 +++
 
 ![](https://snakewoman.blog/wp-content/uploads/2025/01/PSX_001_BURST20250120131854-scaled.jpg)

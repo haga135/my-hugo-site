@@ -2,7 +2,7 @@
 date = '2025-10-12T15:50:52+09:00'
 draft = false
 title = '2025 大阪万博に行ってきました'
-thumbnail = "https://snakewoman.blog/wp-content/uploads/2025/10/IMG_20251011_174437-scaled-e1764400010658.jpg"
+eyecatch = "https://snakewoman.blog/wp-content/uploads/2025/10/IMG_20251011_174437-scaled-e1764400010658.jpg"
 +++
 
 こんにちは！！

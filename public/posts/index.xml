@@ -6,15 +6,8 @@
     <description>Recent content in Posts on 初めてのブログ</description>
     <generator>Hugo</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 20 Jan 2026 13:59:19 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 12 Oct 2025 15:50:52 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Tue, 20 Jan 2026 13:59:19 +0900</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-go-html-template&#34; data-lang=&#34;go-html-template&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;range&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;.Pages&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;h2&lt;/span&gt;&amp;gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;.RelPermalink&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;&amp;gt;&lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;.LinkTitle&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt;&amp;gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;h2&lt;/span&gt;&amp;gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;end&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
-    </item>
     <item>
       <title>2025 大阪万博に行ってきました</title>
       <link>http://localhost:1313/posts/oosaka-expo-2025/</link>
@@ -27,7 +20,7 @@
       <link>http://localhost:1313/posts/oosaka-tennouji-zoo/</link>
       <pubDate>Sun, 17 Aug 2025 14:03:51 +0900</pubDate>
       <guid>http://localhost:1313/posts/oosaka-tennouji-zoo/</guid>
-      <description>&lt;p&gt;大阪の天王寺動物園に行ってきました。&lt;/p&gt;&#xA;&lt;p&gt;せっかくの連休なのでどこかに出かけたいけど、お金があまりかからないところを検討して行ってみることに。&lt;/p&gt;&#xA;&lt;p&gt;お盆休みなので家族連れできている人も多かった。あいにく改装工事中だったのでへいで仕切られたところがやたら多く、動物たちも暑さでぐったりしてなんだか元気なさそう‥‥。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://snakewoman.blog/wp-content/uploads/2025/08/IMG_20250816_171749-scaled.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;大阪の天王寺動物園に行ってきました。&lt;/p&gt;&#xA;&lt;p&gt;せっかくの連休なのでどこかに出かけたいけど、お金があまりかからないところを検討して行ってみることに。&lt;/p&gt;&#xA;&lt;p&gt;お盆休みなので家族連れできている人も多かった。あいにく改装工事中だったのでへいで仕切られたところがやたら多く、動物たちも暑さでぐったりしてなんだか元気なさそう‥‥。&lt;/p&gt;</description>
     </item>
     <item>
       <title>【Unity】玉転がし開発秘話！苦労と工夫を乗り越えて完成？！</title>
@@ -48,38 +41,38 @@
       <link>http://localhost:1313/posts/first-shrine-iwashimizuhachimangu/</link>
       <pubDate>Mon, 20 Jan 2025 17:35:48 +0900</pubDate>
       <guid>http://localhost:1313/posts/first-shrine-iwashimizuhachimangu/</guid>
-      <description>&lt;p&gt;石清水八幡宮に初詣&lt;/p&gt;&#xA;&lt;p&gt;去年は夜に来て工事中で写真を撮る状態ではなかったので‥‥。&lt;/p&gt;&#xA;&lt;p&gt;今年は昼間に来る事ができて、写真を撮ることが出来ました。&lt;/p&gt;&#xA;&lt;p&gt;とても引き締まった気持ちになりました。&lt;/p&gt;&#xA;&lt;p&gt;帰り道から見えた灯篭に囲まれた境内&lt;/p&gt;&#xA;&lt;p&gt;向こう側にもお宮があるようです。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://snakewoman.blog/wp-content/uploads/2025/01/PSX_001_BURST20250120131854-scaled.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;石清水八幡宮に初詣&lt;/p&gt;&#xA;&lt;p&gt;去年は夜に来て工事中で写真を撮る状態ではなかったので‥‥。&lt;/p&gt;&#xA;&lt;p&gt;今年は昼間に来る事ができて、写真を撮ることが出来ました。&lt;/p&gt;&#xA;&lt;p&gt;とても引き締まった気持ちになりました。&lt;/p&gt;&#xA;&lt;p&gt;昼間だったので展望台にもいった～&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://snakewoman.blog/wp-content/uploads/2025/01/PSX_001_BURST20250120133023-scaled.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;帰り道から見えた灯篭に囲まれた境内&lt;/p&gt;</description>
     </item>
     <item>
       <title>須磨海浜公園に行ってきました</title>
       <link>http://localhost:1313/posts/kobe-suma-seaside-park/</link>
       <pubDate>Sun, 11 Aug 2024 23:09:20 +0900</pubDate>
       <guid>http://localhost:1313/posts/kobe-suma-seaside-park/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://snakewoman.blog/wp-content/uploads/2024/08/IMG_20240811_112844-scaled.jpg&#34; alt=&#34;海&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://snakewoman.blog/wp-content/uploads/2024/08/IMG_20240811_112844-scaled.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>このブログを始めるきっかけについてその3</title>
       <link>http://localhost:1313/posts/blog-start-rs-3/</link>
       <pubDate>Sat, 22 Jun 2024 02:52:00 +0900</pubDate>
       <guid>http://localhost:1313/posts/blog-start-rs-3/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://snakewoman.blog/wp-content/uploads/2024/02/illust1129_thumb.gif&#34; alt=&#34;?&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;wordpressテーマtwenty-twoのカスタマイズ方法はどうやって&#34;&gt;WordpressテーマTwenty twoのカスタマイズ方法はどうやって？&lt;/h2&gt;&#xA;&lt;p&gt;ローカル環境にWordpressをインストールして、眺めてみたり、どこかへ出掛けたときの写真を投稿していたのですが、カスタマイズのやり方がさっぱりわからず、適当な記事を書いて個人的に楽しむだけで、とても他人に見せるようなものではありませんでした。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://snakewoman.blog/wp-content/uploads/2024/02/illust1129_thumb.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;wordpressテーマtwenty-twoのカスタマイズ方法はどうやって&#34;&gt;WordpressテーマTwenty twoのカスタマイズ方法はどうやって？&lt;/h2&gt;&#xA;&lt;p&gt;ローカル環境にWordpressをインストールして、眺めてみたり、どこかへ出掛けたときの写真を投稿していたのですが、カスタマイズのやり方がさっぱりわからず、適当な記事を書いて個人的に楽しむだけで、とても他人に見せるようなものではありませんでした。&lt;/p&gt;</description>
     </item>
     <item>
       <title>このブログを始めるきっかけについてその2</title>
       <link>http://localhost:1313/posts/blog-start-rs-2/</link>
       <pubDate>Sat, 24 Feb 2024 20:58:16 +0900</pubDate>
       <guid>http://localhost:1313/posts/blog-start-rs-2/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://snakewoman.blog/wp-content/uploads/2024/02/illust1129_thumb.gif&#34; alt=&#34;?&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;プロキシサーバーをインストール設定&#34;&gt;プロキシサーバーをインストール、設定&lt;/h2&gt;&#xA;&lt;p&gt;サーバに正常にwebアクセスできるようになったので、プロキシサーバをインストールします。squidという有名なプロキシサーバー用のソフトウエアです。squidの設定ファイルを自身の環境に合わせて設定します。ネットの情報を元に設定していきました。最終行に追記するだけで良かったようですが、該当箇所をコメントアウトして直後に追記しました。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://snakewoman.blog/wp-content/uploads/2024/02/illust1129_thumb.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;プロキシサーバーをインストール設定&#34;&gt;プロキシサーバーをインストール、設定&lt;/h2&gt;&#xA;&lt;p&gt;サーバに正常にwebアクセスできるようになったので、プロキシサーバをインストールします。squidという有名なプロキシサーバー用のソフトウエアです。squidの設定ファイルを自身の環境に合わせて設定します。ネットの情報を元に設定していきました。最終行に追記するだけで良かったようですが、該当箇所をコメントアウトして直後に追記しました。&lt;/p&gt;</description>
     </item>
     <item>
       <title>このブログを始めるきっかけについて</title>
       <link>http://localhost:1313/posts/blog-start-rs/</link>
       <pubDate>Sat, 24 Feb 2024 15:23:00 +0900</pubDate>
       <guid>http://localhost:1313/posts/blog-start-rs/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://snakewoman.blog/wp-content/uploads/2024/02/illust1129_thumb.gif&#34; alt=&#34;?&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;お名前vpsサーバを契約&#34;&gt;お名前vpsサーバを契約&lt;/h2&gt;&#xA;&lt;p&gt;Wordpressバージョン5.9以前からローカル環境にWordpressをインストールして眺めてみたり、記事を書いてみたりしていました。ブロックエディターの使い方が全くわからずスマートフォンで撮った写真を投稿する程度の使い方しかしていません。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://snakewoman.blog/wp-content/uploads/2024/02/illust1129_thumb.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;お名前vpsサーバを契約&#34;&gt;お名前vpsサーバを契約&lt;/h2&gt;&#xA;&lt;p&gt;Wordpressバージョン5.9以前からローカル環境にWordpressをインストールして眺めてみたり、記事を書いてみたりしていました。ブロックエディターの使い方が全くわからずスマートフォンで撮った写真を投稿する程度の使い方しかしていません。&lt;/p&gt;</description>
     </item>
     <item>
-      <title>ショートコードで投稿IDやスラッグから記事の内部リンクを作成する</title>
+      <title>【WordPress】ショートコードで投稿IDやスラッグから記事の内部リンクを作成する</title>
       <link>http://localhost:1313/posts/add-postlink/</link>
       <pubDate>Sat, 10 Feb 2024 11:02:38 +0900</pubDate>
       <guid>http://localhost:1313/posts/add-postlink/</guid>
@@ -90,7 +83,7 @@
       <link>http://localhost:1313/posts/new-domainname/</link>
       <pubDate>Mon, 05 Feb 2024 18:38:47 +0900</pubDate>
       <guid>http://localhost:1313/posts/new-domainname/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://snakewoman.blog/wp-content/uploads/2024/02/illust1129_thumb.gif&#34; alt=&#34;?&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;wordpressを簡単インストール&#34;&gt;Wordpressを簡単インストール&lt;/h2&gt;&#xA;&lt;p&gt;新しいドメイン（snakewoman.blog）をお名前ドットコムで申し込んだら（０円）、サーバーまで申し込んで契約されていました（有料。(T_T)）&lt;/p&gt;&#xA;&lt;p&gt;しばらく放置して解約するつもりだったのですが、せっかくなのでワードプレスを簡単インストールしてみました。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://snakewoman.blog/wp-content/uploads/2024/02/illust1129_thumb.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;wordpressを簡単インストール&#34;&gt;Wordpressを簡単インストール&lt;/h2&gt;&#xA;&lt;p&gt;新しいドメイン（snakewoman.blog)をお名前ドットコムで申し込んだら（０円）、サーバーまで申し込んで契約されていました（有料。(T_T)）&lt;/p&gt;&#xA;&lt;p&gt;しばらく放置して解約するつもりだったのですが、せっかくなのでワードプレスを簡単インストールしてみました。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
