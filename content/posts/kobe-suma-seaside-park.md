@@ -5,4 +5,4 @@ title = '須磨海浜公園に行ってきました'
 thumbnail = "https://snakewoman.blog/wp-content/uploads/2024/08/IMG_20240811_112844-scaled.jpg"
 +++
 
-![海](https://snakewoman.blog/wp-content/uploads/2024/08/IMG_20240811_112844-scaled.jpg)
+![](https://snakewoman.blog/wp-content/uploads/2024/08/IMG_20240811_112844-scaled.jpg)

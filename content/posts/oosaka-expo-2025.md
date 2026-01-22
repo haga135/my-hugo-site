@@ -17,17 +17,17 @@ thumbnail = "https://snakewoman.blog/wp-content/uploads/2025/10/IMG_20251011_174
 
 最初の予定
 
-1. 大屋根リングを散策して夜景を鑑賞
+1.大屋根リングを散策して夜景を鑑賞
 
-2. 夕食
+2.夕食
 
-3. シグネチャーパビリオン１つを見学
+3.シグネチャーパビリオン１つを見学
 
-4. ウォータープラザでイベントを鑑賞
+4.ウォータープラザでイベントを鑑賞
 
-5. お土産
+5.お土産
 
-6. 帰路に着く
+6.帰路に着く
 
 でしたが、3,4は予約がないのでだめでした。大屋根リングからエスカレーターで降りてから、開いているベンチで弁当を食べました。それからトイレに行って、予約なしでも入れるパビリオンを見学しました。行ったのは、インド館、夜の地球、ベトナム館です。
 
@@ -39,33 +39,32 @@ thumbnail = "https://snakewoman.blog/wp-content/uploads/2025/10/IMG_20251011_174
 
 私の年代ではかつて「エキスポランド」に名称変更した、1970年開催の万博会場に家族4人で訪れた昔から比べると、時代の流れというものを感じさせるものでした。日本人が主体の世の中ではなくなってきたしコミュニケーションの手段も増えてどれを選ぶかは自由。この万博で日本がまた価値観の違う新しい時代を作り出す一歩になればいいと思いました。
 
-![?](https://snakewoman.blog/wp-content/uploads/2025/10/IMG_20251011_174437-scaled-e1764400010658.jpg)
+![](https://snakewoman.blog/wp-content/uploads/2025/10/IMG_20251011_174437-scaled-e1764400010658.jpg)
 
 Catching the last magic of Expo 2025. （2025年万博、最後の魔法に間に合って）
 
-![?](https://snakewoman.blog/wp-content/uploads/2025/10/IMG_20251011_185340-scaled-e1764399924804.jpg)
+![](https://snakewoman.blog/wp-content/uploads/2025/10/IMG_20251011_185340-scaled-e1764399924804.jpg)
 
 Colorful details from India Pavilion. （インド館の色鮮やかなディテール）
 
-![?](https://snakewoman.blog/wp-content/uploads/2025/10/IMG_20251011_193358-scaled-e1764399804344.jpg)
+![](https://snakewoman.blog/wp-content/uploads/2025/10/IMG_20251011_193358-scaled-e1764399804344.jpg)
 
 The exotic atmosphere of the Vietnam Pavilion. （ベトナム館のエキゾチックな雰囲気）
 
-![?](https://snakewoman.blog/wp-content/uploads/2025/10/IMG_20251011_190519-scaled-e1764399895949.jpg)
+![](https://snakewoman.blog/wp-content/uploads/2025/10/IMG_20251011_190519-scaled-e1764399895949.jpg)
 
 The Earth Pavilion glowing in the dark. （闇の中で輝く地球館）
 
-![?](https://snakewoman.blog/wp-content/uploads/2026/01/IMG_20251012_134158-800x1067.jpg)
+![](https://snakewoman.blog/wp-content/uploads/2026/01/IMG_20251012_134158-800x1067.jpg)
 
 Small souvenirs to remember the day. （この日を忘れないための、小さなおみやげ）
 
-![?](https://snakewoman.blog/wp-content/uploads/2025/10/IMG_20251011_183551-scaled-e1764399952493.jpg)
+![](https://snakewoman.blog/wp-content/uploads/2025/10/IMG_20251011_183551-scaled-e1764399952493.jpg)
 
 A short but unforgettable evening. （短かったけれど、忘れられない夕べ）
 
-![?](https://snakewoman.blog/wp-content/uploads/2025/10/IMG_20251011_183538-scaled-e1764399984713.jpg)
+![](https://snakewoman.blog/wp-content/uploads/2025/10/IMG_20251011_183538-scaled-e1764399984713.jpg)
 
 So glad I made it before it closed. （閉幕前に来られて本当によかった）
 
-**Finally, I’m so glad I made it to the Expo.** （最後になりましたが、万博に行けて本当によかったです。）
-**These short moments will stay with me forever.**（この短い時間は、私の中でずっと大切な思い出になります。）
+**Finally, I’m so glad I made it to the Expo.** （最後になりましたが、万博に行けて本当によかったです。） **These short moments will stay with me forever.** （この短い時間は、私の中でずっと大切な思い出になります。）

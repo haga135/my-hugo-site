@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Tue, 20 Jan 2026 13:59:19 +0900</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-go-html-template&#34; data-lang=&#34;go-html-template&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;range&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;.Pages&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;h2&lt;/span&gt;&amp;gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;.RelPermalink&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;&amp;gt;&lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;.LinkTitle&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt;&amp;gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;h2&lt;/span&gt;&amp;gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;end&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
     </item>
     <item>
       <title>2025 大阪万博に行ってきました</title>
@@ -79,11 +79,11 @@
       <description>&lt;p&gt;&lt;img src=&#34;https://snakewoman.blog/wp-content/uploads/2024/02/illust1129_thumb.gif&#34; alt=&#34;?&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;お名前vpsサーバを契約&#34;&gt;お名前vpsサーバを契約&lt;/h2&gt;&#xA;&lt;p&gt;Wordpressバージョン5.9以前からローカル環境にWordpressをインストールして眺めてみたり、記事を書いてみたりしていました。ブロックエディターの使い方が全くわからずスマートフォンで撮った写真を投稿する程度の使い方しかしていません。&lt;/p&gt;</description>
     </item>
     <item>
-      <title>【WordPress】ショートコードで投稿IDやスラッグから記事の内部リンクを作成する</title>
+      <title>ショートコードで投稿IDやスラッグから記事の内部リンクを作成する</title>
       <link>http://localhost:1313/posts/add-postlink/</link>
       <pubDate>Sat, 10 Feb 2024 11:02:38 +0900</pubDate>
       <guid>http://localhost:1313/posts/add-postlink/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://snakewoman.blog/wp-content/uploads/2024/02/illust1129_thumb.gif&#34; alt=&#34;?&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;投稿記事へのリンクを設置したい&#34;&gt;投稿記事へのリンクを設置したい&lt;/h2&gt;&#xA;&lt;p&gt;記事にタイトルのリンクを追加するショートコードを作成するサンプルです。&lt;/p&gt;&#xA;&lt;p&gt;ワードプレスでブログをやっていると別の投稿ページへのリンクを設置したいときがありますよね？&lt;/p&gt;&#xA;&lt;p&gt;そんなときどうすれば簡単にリンクを設置する事ができるのか調べてみました！&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://snakewoman.blog/wp-content/uploads/2024/02/illust1129_thumb.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;投稿記事へのリンクを設置したい&#34;&gt;投稿記事へのリンクを設置したい&lt;/h2&gt;&#xA;&lt;p&gt;記事にタイトルのリンクを追加するショートコードを作成するサンプルです。&lt;/p&gt;&#xA;&lt;p&gt;ワードプレスでブログをやっていると別の投稿ページへのリンクを設置したいときがありますよね？&lt;/p&gt;&#xA;&lt;p&gt;そんなときどうすれば簡単にリンクを設置する事ができるのか調べてみました！&lt;/p&gt;</description>
     </item>
     <item>
       <title>ワードプレス運用状況</title>
