@@ -2,7 +2,7 @@
 date = '2025-03-09T15:43:31+09:00'
 draft = false
 title = '【Unity】玉転がし開発秘話！苦労と工夫を乗り越えて完成？！'
-eyecatch = "https://snakewoman.blog/wp-content/uploads/2025/03/8ba297d2757a632528e63500e9a41b15.png"
+thumbnail = "https://snakewoman.blog/wp-content/uploads/2025/03/8ba297d2757a632528e63500e9a41b15.png"
 +++
 
 - ゲームの概要：Unity learn チュートリアルの3Dゲーム

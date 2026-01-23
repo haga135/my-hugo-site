@@ -12,14 +12,6 @@
 		{{ with partial "post_meta.html" . -}}
 		<div class="list__meta meta">{{ . }}</div>
 		{{- end }}
-		<div class="eyecatch">
-	 {{ if isset .Params "eyecatch" }}
-{{ $eyecatch_image := .Params.eyecatch }}
-{{ with $eyecatch_image }}
-  <img src="{{ . | safeHTML}}">
-{{ end }}
-{{ end }}
-	</div>
 	</header>
 	<div class="content list__excerpt post__content clearfix">
 		{{ .Summary }}
