@@ -5,7 +5,7 @@ title = 'ワードプレス運用状況'
 thumbnail = "/images/鳥.webP"
 +++
 
-![](/images/黒猫.webP)
+![](/images/blackcat.webP)
 
 ## Wordpressを簡単インストール
 

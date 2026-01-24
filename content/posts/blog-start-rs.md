@@ -2,10 +2,10 @@
 date = '2024-02-24T15:23:00+09:00'
 draft = false
 title = 'このブログを始めるきっかけについて'
-thumbnail = "/images/鳥.webP"
+thumbnail = "/images/bird.webP"
 +++
 
-![](/images/黒猫.webP)
+![](/images/blackcat.webP)
 
 ## お名前vpsサーバを契約
 
