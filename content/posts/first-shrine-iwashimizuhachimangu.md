@@ -3,10 +3,10 @@ date = '2025-01-20T17:35:48+09:00'
 draft = false
 title = '初詣に行ってきました'
 summary = "毎年行ってます。今年も石清水八幡宮です。"
-thumbnail = "https://snakewoman.blog/wp-content/uploads/2025/01/PSX_001_BURST20250120131854-scaled.jpg"
+thumbnail = "/images/本殿.webP"
 +++
 
-![](https://snakewoman.blog/wp-content/uploads/2025/01/PSX_001_BURST20250120131854-scaled.jpg)
+![](/images/本殿.webP)
 
 石清水八幡宮に初詣
 
@@ -18,10 +18,10 @@ thumbnail = "https://snakewoman.blog/wp-content/uploads/2025/01/PSX_001_BURST202
 
 昼間だったので展望台にもいった～
 
-![](https://snakewoman.blog/wp-content/uploads/2025/01/PSX_001_BURST20250120133023-scaled.jpg)
+![](/images/展望台.webP)
 
 帰り道から見えた灯篭に囲まれた境内
 
 向こう側にもお宮があるようです。
 
-![](https://snakewoman.blog/wp-content/uploads/2025/01/PSX_001_BURST20250120133807-scaled.jpg)
+![](/images/灯篭.webP)

@@ -3,7 +3,7 @@ date = '2024-08-11T23:09:20+09:00'
 draft = false
 title = '須磨海浜公園に行ってきました'
 summary = "須磨海浜公園で海水浴の様子を写真に撮りました。"
-thumbnail = "https://snakewoman.blog/wp-content/uploads/2024/08/IMG_20240811_112844-scaled.jpg"
+thumbnail = "/images/海.webP"
 +++
 
-![](https://snakewoman.blog/wp-content/uploads/2024/08/IMG_20240811_112844-scaled.jpg)
+![](/images/海.webP)
