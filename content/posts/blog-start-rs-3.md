@@ -2,10 +2,10 @@
 date = '2024-06-22T02:52:00+09:00'
 draft = false
 title = 'このブログを始めるきっかけについてその3'
-thumbnail = "https://snakewoman.blog/wp-content/uploads/2024/01/screenshot-1.png"
+thumbnail = "/images/鳥.webP"
 +++
 
-![](https://snakewoman.blog/wp-content/uploads/2024/02/illust1129_thumb.gif)
+![](/images/黒猫.webP)
 
 ## WordpressテーマTwenty twoのカスタマイズ方法はどうやって？
 

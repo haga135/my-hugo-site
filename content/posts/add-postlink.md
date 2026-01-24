@@ -2,10 +2,10 @@
 date = '2024-02-10T11:02:38+09:00'
 draft = false
 title = '【WordPress】ショートコードで投稿IDやスラッグから記事の内部リンクを作成する'
-thumbnail = "https://snakewoman.blog/wp-content/uploads/2024/01/screenshot-1.png"
+thumbnail = "/images/鳥.webP"
 +++
 
-![](https://snakewoman.blog/wp-content/uploads/2024/02/illust1129_thumb.gif)
+![](/images/黒猫.webP)
 
 ## 投稿記事へのリンクを設置したい
 
