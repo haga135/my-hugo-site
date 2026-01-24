@@ -8,3 +8,23 @@
 .list__content img {
   display: none;
 }
+/* Google Fonts から Noto Sans JP を読み込む */
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap");
+
+/* サイト全体のフォントを上書き */
+body {
+  font-family: "Noto Sans JP", sans-serif;
+  /* 行間を少し広くして読みやすくする（1.8〜2.0くらいがおすすめ） */
+  line-height: 1.8;
+  /* 文字の横の間隔をわずかに広げる（読みやすさが向上します） */
+  letter-spacing: 0.03em;
+  /* 文字の色を真っ黒(#000)ではなく、少しグレーにすると目が疲れにくくなります */
+  color: #333;
+}
+
+/* 記事内の見出し（H2）を少し目立たせる例 */
+.content h2 {
+  border-left: 5px solid #e02424; /* Mainroadのデフォルト赤色に近い色 */
+  padding-left: 15px;
+  margin-top: 2em;
+}
