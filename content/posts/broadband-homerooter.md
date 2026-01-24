@@ -2,7 +2,7 @@
 date = '2025-03-01T17:13:52+09:00'
 draft = false
 title = 'ネット回線の選び方｜目的・料金・速度で比較！初心者向けに解説'
-thumbnail = "/images/eyecatch2.webP"
+thumbnail = "/images/eyecatch2.webp"
 +++
 
 ## 最近のインターネット回線の選び方について自分用にまとめ。

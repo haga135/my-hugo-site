@@ -2,7 +2,7 @@
 date = '2025-10-12T15:50:52+09:00'
 draft = false
 title = '2025 大阪万博に行ってきました'
-thumbnail = "/images/somple3.webP"
+thumbnail = "/images/somple3.webp"
 +++
 
 こんにちは！！
@@ -43,27 +43,27 @@ thumbnail = "/images/somple3.webP"
 
 Catching the last magic of Expo 2025. （2025年万博、最後の魔法に間に合って）
 
-![](/images/somple5.webP)
+![](/images/somple5.webp)
 
 Colorful details from India Pavilion. （インド館の色鮮やかなディテール）
 
-![](/images/somple2.webP)
+![](/images/somple2.webp)
 
 The exotic atmosphere of the Vietnam Pavilion. （ベトナム館のエキゾチックな雰囲気）
 
-![](/images/somple4.webP)
+![](/images/somple4.webp)
 
 The Earth Pavilion glowing in the dark. （闇の中で輝く地球館）
 
-![](/images/somple8.webP)
+![](/images/somple8.webp)
 
 Small souvenirs to remember the day. （この日を忘れないための、小さなおみやげ）
 
-![](/images/somple6.webP)
+![](/images/somple6.webp)
 
 A short but unforgettable evening. （短かったけれど、忘れられない夕べ）
 
-![](/images/somple7.webP)
+![](/images/somple7.webp)
 
 So glad I made it before it closed. （閉幕前に来られて本当によかった）
 

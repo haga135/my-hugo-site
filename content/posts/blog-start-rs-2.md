@@ -2,10 +2,10 @@
 date = '2024-02-24T20:58:16+09:00'
 draft = false
 title = 'このブログを始めるきっかけについてその2'
-thumbnail = "/images/bird.webP"
+thumbnail = "/images/bird.webp"
 +++
 
-![](/images/blackcat.webP)
+![](/images/blackcat.webp)
 
 ## プロキシサーバーをインストール、設定
 

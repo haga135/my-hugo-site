@@ -2,10 +2,10 @@
 date = '2024-02-05T18:38:47+09:00'
 draft = false
 title = 'ワードプレス運用状況'
-thumbnail = "/images/鳥.webP"
+thumbnail = "/images/bird.webp"
 +++
 
-![](/images/blackcat.webP)
+![](/images/blackcat.webp)
 
 ## Wordpressを簡単インストール
 

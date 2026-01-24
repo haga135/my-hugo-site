@@ -2,10 +2,10 @@
 date = '2024-06-22T02:52:00+09:00'
 draft = false
 title = 'このブログを始めるきっかけについてその3'
-thumbnail = "/images/bird.webP"
+thumbnail = "/images/bird.webp"
 +++
 
-![](/images/blackcat.webP)
+![](/images/blackcat.webp)
 
 ## WordpressテーマTwenty twoのカスタマイズ方法はどうやって？
 

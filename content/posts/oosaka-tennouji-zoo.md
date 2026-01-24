@@ -3,10 +3,10 @@ date = '2025-08-17T14:03:51+09:00'
 draft = false
 title = '天王寺動物園に行ってきました。'
 summary = "連休を家でゴロゴロ過ごすのは、もったいない！"
-thumbnail = "/images/somple9.webP"
+thumbnail = "/images/somple9.webp"
 +++
 
-![](/images/somple9.webP)
+![](/images/somple9.webp)
 
 大阪の天王寺動物園に行ってきました。
 
