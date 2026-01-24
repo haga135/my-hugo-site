@@ -2,7 +2,7 @@
 date = '2024-06-22T02:52:00+09:00'
 draft = false
 title = 'このブログを始めるきっかけについてその3'
-thumbnail = "/images/bird.webp"
+thumbnail = "/images/screenshot-1.webp"
 +++
 
 ![](/images/blackcat.webp)
