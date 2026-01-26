@@ -6,12 +6,26 @@
     <description>Recent content in Categories on 初めてのブログ</description>
     <generator>Hugo</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 24 Feb 2024 20:58:16 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 19:04:21 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Diary</title>
+      <link>http://localhost:1313/categories/diary/</link>
+      <pubDate>Sun, 25 Jan 2026 19:04:21 +0900</pubDate>
+      <guid>http://localhost:1313/categories/diary/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ライフハック</title>
+      <link>http://localhost:1313/categories/%E3%83%A9%E3%82%A4%E3%83%95%E3%83%8F%E3%83%83%E3%82%AF/</link>
+      <pubDate>Sun, 09 Mar 2025 15:43:31 +0900</pubDate>
+      <guid>http://localhost:1313/categories/%E3%83%A9%E3%82%A4%E3%83%95%E3%83%8F%E3%83%83%E3%82%AF/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Wordpress</title>
       <link>http://localhost:1313/categories/wordpress/</link>
-      <pubDate>Sat, 24 Feb 2024 20:58:16 +0900</pubDate>
+      <pubDate>Sat, 22 Jun 2024 02:52:00 +0900</pubDate>
       <guid>http://localhost:1313/categories/wordpress/</guid>
       <description></description>
     </item>

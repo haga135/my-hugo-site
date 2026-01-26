@@ -2,6 +2,7 @@
 date = '2025-01-20T17:35:48+09:00'
 draft = false
 title = '初詣に行ってきました'
+categories = ["diary"]
 summary = "毎年行ってます。今年も石清水八幡宮です。"
 thumbnail = "/images/main_shrine.webp"
 +++

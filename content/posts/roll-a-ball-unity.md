@@ -2,6 +2,7 @@
 date = '2025-03-09T15:43:31+09:00'
 draft = false
 title = '【Unity】玉転がし開発秘話！苦労と工夫を乗り越えて完成？！'
+categories = ["ライフハック"]
 thumbnail = "/images/roll-a-ball2.webp"
 +++
 

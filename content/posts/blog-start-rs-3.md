@@ -2,6 +2,7 @@
 date = '2024-06-22T02:52:00+09:00'
 draft = false
 title = 'このブログを始めるきっかけについてその3'
+categories = ["wordpress"]
 thumbnail = "/images/screenshot-1.webp"
 +++
 

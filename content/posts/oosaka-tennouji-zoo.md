@@ -2,6 +2,7 @@
 date = '2025-08-17T14:03:51+09:00'
 draft = false
 title = '天王寺動物園に行ってきました。'
+categories = ["diary"]
 summary = "連休を家でゴロゴロ過ごすのは、もったいない！"
 thumbnail = "/images/somple9.webp"
 +++
