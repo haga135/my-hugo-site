@@ -1,0 +1,16 @@
+<div class="widget-author widget">
+  <h4 class="widget__title">プロフィール</h4>
+  <div class="widget__content">
+    {{ with .Site.Params.widgets.author }}
+    <div class="widget-author__avatar">
+      <img
+        src="{{ .avatar | relURL }}"
+        alt="{{ .name }}"
+        style="width: 100%; border-radius: 50%"
+      />
+    </div>
+    <p class="widget-author__name"><strong>{{ .name }}</strong></p>
+    <p class="widget-author__bio">{{ .bio }}</p>
+    {{ end }}
+  </div>
+</div>

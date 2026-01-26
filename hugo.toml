@@ -22,14 +22,15 @@ summaryLength = 100
     home = "right"
     list = "right"
     # サイドバーに表示するパーツ（widgets）の順番
-    widgets = ["search", "recent", "categories", "taglist", "languages"]
+    widgets = ["author", "recent", "categories"]
 
 [params.widgets.author]
     # プロフィールウィジェットを表示させたい場合は widgets に "author" を追加します
     # 例: widgets = ["author", "recent", "categories"]
-    name = "あなたの名前"
-    bio = "ここに自己紹介を書きます。WordPressからHugoに引っ越してきました！"
+    name = "RS"
+    bio = "WordPressから引っ越してきました。Hugoのカスタマイズに挑戦中です！"
     avatar = "images/profile.webp" # static/images/ に置いた自分の写真
+
 [[menu.main]]
     name = "ホーム"
     url = "/"

@@ -28,3 +28,16 @@ body {
   padding-left: 15px;
   margin-top: 2em;
 }
+
+/* プロフィール画像の大きさを調整 */
+.widget-author__avatar {
+  max-width: 120px; /* お好みのサイズに */
+  margin: 0 auto 15px; /* 真ん中に寄せて、下に少し隙間を空ける */
+}
+
+/* 自己紹介文の文字サイズを少し小さくして馴染ませる */
+.widget-author__bio {
+  font-size: 0.9rem;
+  line-height: 1.6;
+  color: #666;
+}
