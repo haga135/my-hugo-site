@@ -19,7 +19,8 @@ summaryLength = 100
   customCSS = ["css/custom.css"]
 [params.sidebar]
     # サイドバーを表示する位置（left または right）
-    layout = "right"
+    home = "right"
+    list = "right"
     # サイドバーに表示するパーツ（widgets）の順番
     widgets = ["search", "recent", "categories", "taglist", "languages"]
 
