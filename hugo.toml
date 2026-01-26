@@ -40,3 +40,6 @@ summaryLength = 100
     name = "全記事一覧"
     url = "/posts/"
     weight = 20
+
+[params.widgets]
+    categories_counter = true
