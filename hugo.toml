@@ -17,3 +17,24 @@ summaryLength = 100
   pager = true
   post_meta = ["date", "categories"] # Order of post meta information
   customCSS = ["css/custom.css"]
+[params.sidebar]
+    # サイドバーを表示する位置（left または right）
+    layout = "right"
+    # サイドバーに表示するパーツ（widgets）の順番
+    widgets = ["search", "recent", "categories", "taglist", "languages"]
+
+[params.widgets.author]
+    # プロフィールウィジェットを表示させたい場合は widgets に "author" を追加します
+    # 例: widgets = ["author", "recent", "categories"]
+    name = "あなたの名前"
+    bio = "ここに自己紹介を書きます。WordPressからHugoに引っ越してきました！"
+    avatar = "images/profile.webp" # static/images/ に置いた自分の写真
+[[menu.main]]
+    name = "ホーム"
+    url = "/"
+    weight = 10
+
+[[menu.main]]
+    name = "全記事一覧"
+    url = "/posts/"
+    weight = 20
