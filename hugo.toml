@@ -9,7 +9,7 @@ hasCJKLanguage = true
 summaryLength = 100
 
 [params]
-  description = "John Doe's Personal blog about everything" # Description of your site
+  # description = "John Doe's Personal blog about everything" # Description of your site
   opengraph = true
   twitter_cards = false
   readmore = true # Show "Read more" button in list if true
@@ -17,6 +17,13 @@ summaryLength = 100
   pager = true
   post_meta = ["date", "categories"] # Order of post meta information
   customCSS = ["css/custom.css"]
+  # SNSでシェアされた時の説明文（デフォルト）
+  description = "日常の出来事を中心とした記事を書いています"
+  # あなたのSNSアカウントなど（任意）
+  author = "@komonofr"
+
+[services.googleAnalytics]
+  # もし将来アナリティクスを使うならここに入れます
    
 [params.sidebar]
     # サイドバーを表示する位置（left または right）
