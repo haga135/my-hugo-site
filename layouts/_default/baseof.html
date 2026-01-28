@@ -6,7 +6,7 @@
 <meta property="og:title" content="{{ if .IsPage }}{{ .Title }} | {{ end }}{{ .Site.Title }}">
 <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ .Site.Params.description }}{{ end }}{{ end }}">
 
-{{ with .Params.thumbnail }}
+{{ if .Params.thumbnail }}
   <meta property="og:image" content="{{ . | absURL }}">
 {{ else }}
   {{ with .Site.Params.widgets.author.avatar }}
@@ -18,7 +18,7 @@
 <meta name="twitter:title" content="{{ if .IsPage }}{{ .Title }} | {{ end }}{{ .Site.Title }}">
 <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ .Site.Params.description }}{{ end }}{{ end }}">
 
-{{ with .Params.thumbnail }}
+{{ if .Params.thumbnail }}
   <meta name="twitter:image" content="{{ . | absURL }}">
 {{ else }}
   {{ with .Site.Params.widgets.author.avatar }}
