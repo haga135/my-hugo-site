@@ -7,7 +7,6 @@ DefaultContentLanguage = 'ja'
 
 hasCJKLanguage = true
 summaryLength = 100
-googleSiteVerification = "7rILDpbRbHAXa2fjWnjI4-9Zwyn1VJI2WyFKbp2GVxo"
 
 [params]
   description = "John Doe's Personal blog about everything" # Description of your site
