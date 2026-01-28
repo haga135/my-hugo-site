@@ -43,3 +43,4 @@ thumbnail = "/images/screenshot-1.webp"
 **Amazonで見る**
 
 ](https://amzn.to/3IhL4Jg)
+ 
