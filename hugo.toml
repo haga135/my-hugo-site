@@ -17,8 +17,8 @@ summaryLength = 100
   pager = true
   post_meta = ["date", "categories"] # Order of post meta information
   customCSS = ["css/custom.css"]
-  googleSiteVerification =　"7rILDpbRbHAXa2fjWnjI4-9Zwyn1VJI2WyFKbp2GVxo"
-
+  googleSiteVerification = "7rILDpbRbHAXa2fjWnjI4-9Zwyn1VJI2WyFKbp2GVxo"
+  
 [params.sidebar]
     # サイドバーを表示する位置（left または right）
     home = "right"
