@@ -18,7 +18,7 @@ summaryLength = 100
   post_meta = ["date", "categories"] # Order of post meta information
   customCSS = ["css/custom.css"]
   googleSiteVerification =　<meta name="google-site-verification" content="7rILDpbRbHAXa2fjWnjI4-9Zwyn1VJI2WyFKbp2GVxo" />
-  
+
 [params.sidebar]
     # サイドバーを表示する位置（left または right）
     home = "right"
