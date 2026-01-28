@@ -7,12 +7,20 @@
 	<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ .Site.Params.description }}{{ end }}{{ end }}">
 	{{ with .Params.thumbnail }}
 	<meta property="og:image" content="{{ . | absURL }}">
+	{{ else }}
+  {{ with .Site.Params.widgets.author.avatar }}
+    <meta property="og:image" content="{{ . | absURL }}">
+  {{ end }}
 	{{ end }}
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:title" content="{{ if .IsPage }}{{ .Title }} | {{ end }}{{ .Site.Title }}">
 	<meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ .Site.Params.description }}{{ end }}{{ end }}">
 	{{ with .Params.thumbnail }}
 	<meta name="twitter:image" content="{{ . | absURL }}">
+	{{ else }}
+  {{ with .Site.Params.widgets.author.avatar }}
+    <meta name="twitter:image" content="{{ . | absURL }}">
+  {{ end }}
 	{{ end }}
 	<meta name="google-site-verification" content="7rILDpbRbHAXa2fjWnjI4-9Zwyn1VJI2WyFKbp2GVxo" />
 	<meta charset="UTF-8">
