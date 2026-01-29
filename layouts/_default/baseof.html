@@ -1,24 +1,6 @@
 <!DOCTYPE html>
 <html class="no-js" lang="{{ .Site.Language.Lang }}">
 <head>
-	<meta property="og:type" content="website">
-<meta property="og:url" content="{{ .Permalink }}">
-<meta property="og:title" content="{{ if .IsPage }}{{ .Title }} | {{ end }}{{ .Site.Title }}">
-<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ .Site.Params.description }}{{ end }}{{ end }}">
-
-{{ $og_image := "" }}
-{{ if .Params.thumbnail }}
-  {{ $og_image = .Params.thumbnail | absURL }}
-  {{ else if .Site.Params.ogpDefaultImage }}
-	{{ $og_image = .Site.Params.ogpDefaultImage | absURL }}
-  {{ else if .Site.Params.widgets.author.avatar }}
-    {{ $og_image = .Site.Params.widgets.author.avatar | absURL }}
-  {{ end }}
-{{ if $og_image }}
-<meta property="og:image" content="{{ $og_image }}">
-<meta name="twitter:image" content="{{ $og_image }}">
-{{ end }}
-
 	<meta name="google-site-verification" content="7rILDpbRbHAXa2fjWnjI4-9Zwyn1VJI2WyFKbp2GVxo" />
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -53,8 +35,9 @@
 	{{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
 	{{- end }}
 
-	<link rel="shortcut icon" href="{{ "favicon.ico" | relURL }}">
-	{{- $server := "" }}
+	{{- $favicon := "favicon.ico" | relURL -}}
+    <link rel="shortcut icon" href="{{ $favicon }}">
+		{{- $server := "" }}
 	{{- if gt (int (index (split hugo.Version ".") 1)) "120" }}
 		{{ $server = hugo.IsServer }}
 	{{- else }}
