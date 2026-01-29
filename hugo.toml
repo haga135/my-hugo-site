@@ -11,7 +11,7 @@ summaryLength = 100
 [params]
   # description = "John Doe's Personal blog about everything" # Description of your site
   opengraph = true
-  image = "images/ogp-default.png"
+  ogpDefaultImage = "images/ogp-default.png"
   twitter_cards = false
   readmore = true # Show "Read more" button in list if true
   authorbox = true
