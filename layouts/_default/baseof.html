@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html class="no-js" lang="{{ .Site.Language.Lang }}">
 <head>
-    {{ if .Params.eyecatch }}
-<meta property="og:image" content="{{ .Params.eyecatch | absURL }}" />
+    {{ if .Params.thumbnail }}
+<meta property="og:image" content="{{ .Params.thumbnail | absURL }}" />
 {{ else }}
 <meta property="og:image" content="{{ .Site.Params.image | absURL }}" />
 {{ end }}
