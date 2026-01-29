@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html class="no-js" lang="{{ .Site.Language.Lang }}">
 <head>
+    {{ if .Params.eyecatch }}
+<meta property="og:image" content="{{ .Params.eyecatch | absURL }}" />
+{{ else }}
+<meta property="og:image" content="{{ .Site.Params.image | absURL }}" />
+{{ end }}
 	<meta name="google-site-verification" content="7rILDpbRbHAXa2fjWnjI4-9Zwyn1VJI2WyFKbp2GVxo" />
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
