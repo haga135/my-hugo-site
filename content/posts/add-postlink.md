@@ -3,7 +3,7 @@ date = '2024-02-10T11:02:38+09:00'
 draft = false
 title = '【WordPress】ショートコードで投稿IDやスラッグから記事の内部リンクを作成する'
 categories = ["wordpress"]
-images = "/images/screenshot-1.webp"
+images = ["/images/screenshot-1.webp"]
 +++
 
 ![](/images/blackcat.webp)
