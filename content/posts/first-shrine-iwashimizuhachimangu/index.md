@@ -7,7 +7,7 @@ summary = "毎年行ってます。今年も石清水八幡宮です。"
 thumbnail = "images/main_shrine.webp"
 +++
 
-![](/images/main_shrine.webp)
+![](main_shrine.webp)
 
 石清水八幡宮に初詣
 
@@ -19,10 +19,10 @@ thumbnail = "images/main_shrine.webp"
 
 昼間だったので展望台にもいった～
 
-![](/images/observation_deck.webp)
+![](observation-deck.webp)
 
 帰り道から見えた灯篭に囲まれた境内
 
 向こう側にもお宮があるようです。
 
-![](/images/lantern.webp)
+![](lantern.webp)

@@ -3,10 +3,10 @@ date = '2024-02-24T15:23:00+09:00'
 draft = false
 title = 'このブログを始めるきっかけについて'
 categories = ["wordpress"]
-thumbnail = "images/screenshot-1.webp"
+thumbnail = "images/shared/screenshot-1.webp"
 +++
 
-![](/images/blackcat.webp)
+![](images/shared/blackcat.webp)
 
 ## お名前vpsサーバを契約
 
