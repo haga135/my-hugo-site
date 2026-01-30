@@ -3,10 +3,10 @@ date = '2024-02-05T18:38:47+09:00'
 draft = false
 title = 'ワードプレス運用状況'
 categories = ["wordpress"]
-thumbnail = "screenshot-1.webp"
+thumbnail = "images/screenshot-1.webp"
 +++
 
-![](blackcat.webp)
+![](/images/blackcat.webp)
 
 ## Wordpressを簡単インストール
 

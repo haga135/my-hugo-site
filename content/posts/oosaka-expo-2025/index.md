@@ -3,7 +3,7 @@ date = '2025-10-12T15:50:52+09:00'
 draft = false
 title = '2025 大阪万博に行ってきました'
 categories = ["diary"]
-thumbnail = "somple3.webp"
+thumbnail = "images/somple3.webp"
 +++
 
 こんにちは！！
