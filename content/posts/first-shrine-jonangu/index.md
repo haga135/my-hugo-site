@@ -3,7 +3,7 @@ date = '2026-01-25T19:04:21+09:00'
 draft = false
 title = '城南宮に初詣'
 categories = ["diary"]
-thumbnail = "/images/260125-1.webp"
+thumbnail = "260125-1.webp"
 +++
 
 雪のちらつく中、今年も初詣に行ってきました。
@@ -19,8 +19,8 @@ thumbnail = "/images/260125-1.webp"
 おごそかでピンと張りつめた空気は寺社仏閣ならではのものですね。
 今年も良い年でありますように。
 
-![](/images/260125-1.webp)
+![](260125-1.webp)
 
-![](/images/260125-2.webp)
+![](260125-2.webp)
 
-![](/images/260125-3.webp)
+![](260125-3.webp)

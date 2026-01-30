@@ -4,7 +4,7 @@ draft = false
 title = '初詣に行ってきました'
 categories = ["diary"]
 summary = "毎年行ってます。今年も石清水八幡宮です。"
-thumbnail = "/images/main_shrine.webp"
+thumbnail = "main_shrine.webp"
 +++
 
 ![](/images/main_shrine.webp)

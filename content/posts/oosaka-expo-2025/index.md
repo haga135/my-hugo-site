@@ -3,7 +3,7 @@ date = '2025-10-12T15:50:52+09:00'
 draft = false
 title = '2025 大阪万博に行ってきました'
 categories = ["diary"]
-thumbnail = "/images/somple3.webp"
+thumbnail = "somple3.webp"
 +++
 
 こんにちは！！
@@ -40,31 +40,31 @@ thumbnail = "/images/somple3.webp"
 
 私の年代ではかつて「エキスポランド」に名称変更した、1970年開催の万博会場に家族4人で訪れた昔から比べると、時代の流れというものを感じさせるものでした。日本人が主体の世の中ではなくなってきたしコミュニケーションの手段も増えてどれを選ぶかは自由。この万博で日本がまた価値観の違う新しい時代を作り出す一歩になればいいと思いました。
 
-![](/images/somple3.webp)
+![](somple3.webp)
 
 Catching the last magic of Expo 2025. （2025年万博、最後の魔法に間に合って）
 
-![](/images/somple5.webp)
+![](somple5.webp)
 
 Colorful details from India Pavilion. （インド館の色鮮やかなディテール）
 
-![](/images/somple2.webp)
+![](somple2.webp)
 
 The exotic atmosphere of the Vietnam Pavilion. （ベトナム館のエキゾチックな雰囲気）
 
-![](/images/somple4.webp)
+![](somple4.webp)
 
 The Earth Pavilion glowing in the dark. （闇の中で輝く地球館）
 
-![](/images/somple8.webp)
+![](somple8.webp)
 
 Small souvenirs to remember the day. （この日を忘れないための、小さなおみやげ）
 
-![](/images/somple6.webp)
+![](somple6.webp)
 
 A short but unforgettable evening. （短かったけれど、忘れられない夕べ）
 
-![](/images/somple7.webp)
+![](somple7.webp)
 
 So glad I made it before it closed. （閉幕前に来られて本当によかった）
 
