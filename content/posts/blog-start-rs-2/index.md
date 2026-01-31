@@ -6,7 +6,7 @@ categories = ["wordpress"]
 thumbnail = "images/thumbnail-2.png"
 +++
 
-
+[その1からの続き]({{< ref "/posts/blog-start-rs.md" >}})
 
 ## プロキシサーバーをインストール、設定
 

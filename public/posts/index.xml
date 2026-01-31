@@ -69,14 +69,14 @@
       <link>http://localhost:1313/posts/blog-start-rs-2/</link>
       <pubDate>Sat, 24 Feb 2024 20:58:16 +0900</pubDate>
       <guid>http://localhost:1313/posts/blog-start-rs-2/</guid>
-      <description>&lt;h2 id=&#34;プロキシサーバーをインストール設定&#34;&gt;プロキシサーバーをインストール、設定&lt;/h2&gt;&#xA;&lt;p&gt;サーバに正常にwebアクセスできるようになったので、プロキシサーバをインストールします。squidという有名なプロキシサーバー用のソフトウエアです。squidの設定ファイルを自身の環境に合わせて設定します。ネットの情報を元に設定していきました。最終行に追記するだけで良かったようですが、該当箇所をコメントアウトして直後に追記しました。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/blog-start-rs/&#34;&gt;その1からの続き&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;プロキシサーバーをインストール設定&#34;&gt;プロキシサーバーをインストール、設定&lt;/h2&gt;&#xA;&lt;p&gt;サーバに正常にwebアクセスできるようになったので、プロキシサーバをインストールします。squidという有名なプロキシサーバー用のソフトウエアです。squidの設定ファイルを自身の環境に合わせて設定します。ネットの情報を元に設定していきました。最終行に追記するだけで良かったようですが、該当箇所をコメントアウトして直後に追記しました。&lt;/p&gt;</description>
     </item>
     <item>
       <title>このブログを始めるきっかけについて</title>
       <link>http://localhost:1313/posts/blog-start-rs/</link>
       <pubDate>Sat, 24 Feb 2024 15:23:00 +0900</pubDate>
       <guid>http://localhost:1313/posts/blog-start-rs/</guid>
-      <description>&lt;h2 id=&#34;お名前vpsサーバを契約&#34;&gt;お名前vpsサーバを契約&lt;/h2&gt;&#xA;&lt;p&gt;Wordpressバージョン5.9以前からローカル環境にWordpressをインストールして眺めてみたり、記事を書いてみたりしていました。ブロックエディターの使い方が全くわからずスマートフォンで撮った写真を投稿する程度の使い方しかしていません。&lt;/p&gt;</description>
+      <description>&lt;p&gt;Wordpressバージョン5.9以前からローカル環境にWordpressをインストールして眺めてみたり、記事を書いてみたりしていました。ブロックエディターの使い方が全くわからずスマートフォンで撮った写真を投稿する程度の使い方しかしていません。&lt;/p&gt;</description>
     </item>
     <item>
       <title>【WordPress】ショートコードで投稿IDやスラッグから記事の内部リンクを作成する</title>
@@ -90,7 +90,7 @@
       <link>http://localhost:1313/posts/new-domainname/</link>
       <pubDate>Mon, 05 Feb 2024 18:38:47 +0900</pubDate>
       <guid>http://localhost:1313/posts/new-domainname/</guid>
-      <description>&lt;h2 id=&#34;wordpressを簡単インストール&#34;&gt;Wordpressを簡単インストール&lt;/h2&gt;&#xA;&lt;p&gt;新しいドメイン（snakewoman.blog）をお名前ドットコムで申し込んだら（０円）、サーバーまで申し込んで契約されていました（有料。(T_T)）&lt;/p&gt;&#xA;&lt;p&gt;しばらく放置して解約するつもりだったのですが、せっかくなのでワードプレスを簡単インストールしてみました。&lt;/p&gt;</description>
+      <description>&lt;p&gt;新しいドメイン（snakewoman.blog）をお名前ドットコムで申し込んだら（０円）、サーバーまで申し込んで契約されていました（有料。(T_T)）&lt;/p&gt;&#xA;&lt;h2 id=&#34;wordpressを簡単インストール&#34;&gt;Wordpressを簡単インストール&lt;/h2&gt;&#xA;&lt;p&gt;しばらく放置して解約するつもりだったのですが、せっかくなのでワードプレスを簡単インストールしてみました。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
