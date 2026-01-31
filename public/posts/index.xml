@@ -83,14 +83,14 @@
       <link>http://localhost:1313/posts/add-postlink/</link>
       <pubDate>Sat, 10 Feb 2024 11:02:38 +0900</pubDate>
       <guid>http://localhost:1313/posts/add-postlink/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/shared/blackcat.webp&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;投稿記事へのリンクを設置したい&#34;&gt;投稿記事へのリンクを設置したい&lt;/h2&gt;&#xA;&lt;p&gt;記事にタイトルのリンクを追加するショートコードを作成するサンプルです。&lt;/p&gt;&#xA;&lt;p&gt;ワードプレスでブログをやっていると別の投稿ページへのリンクを設置したいときがありますよね？&lt;/p&gt;&#xA;&lt;p&gt;そんなときどうすれば簡単にリンクを設置する事ができるのか調べてみました！&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;images/shared/blackcat.webp&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;投稿記事へのリンクを設置したい&#34;&gt;投稿記事へのリンクを設置したい&lt;/h2&gt;&#xA;&lt;p&gt;記事にタイトルのリンクを追加するショートコードを作成するサンプルです。&lt;/p&gt;&#xA;&lt;p&gt;ワードプレスでブログをやっていると別の投稿ページへのリンクを設置したいときがありますよね？&lt;/p&gt;&#xA;&lt;p&gt;そんなときどうすれば簡単にリンクを設置する事ができるのか調べてみました！&lt;/p&gt;</description>
     </item>
     <item>
       <title>ワードプレス運用状況</title>
       <link>http://localhost:1313/posts/new-domainname/</link>
       <pubDate>Mon, 05 Feb 2024 18:38:47 +0900</pubDate>
       <guid>http://localhost:1313/posts/new-domainname/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;images/shared/blackcat.webp&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;wordpressを簡単インストール&#34;&gt;Wordpressを簡単インストール&lt;/h2&gt;&#xA;&lt;p&gt;新しいドメイン（snakewoman.blog)をお名前ドットコムで申し込んだら（０円）、サーバーまで申し込んで契約されていました（有料。(T_T)）&lt;/p&gt;&#xA;&lt;p&gt;しばらく放置して解約するつもりだったのですが、せっかくなのでワードプレスを簡単インストールしてみました。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/shared/blackcat.webp&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;wordpressを簡単インストール&#34;&gt;Wordpressを簡単インストール&lt;/h2&gt;&#xA;&lt;p&gt;新しいドメイン（snakewoman.blog）をお名前ドットコムで申し込んだら（０円）、サーバーまで申し込んで契約されていました（有料。(T_T)）&lt;/p&gt;&#xA;&lt;p&gt;しばらく放置して解約するつもりだったのですが、せっかくなのでワードプレスを簡単インストールしてみました。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
