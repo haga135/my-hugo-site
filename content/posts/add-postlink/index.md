@@ -6,7 +6,7 @@ categories = ["wordpress"]
 thumbnail = "/images/thumbnail-4.png"
 +++
 
-![](/images/shared/blackcat.webp)
+
 
 ## 投稿記事へのリンクを設置したい
 

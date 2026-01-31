@@ -6,7 +6,7 @@ categories = ["wordpress"]
 thumbnail = "images/thumbnail-3.png"
 +++
 
-![](images/shared/blackcat.webp)
+
 
 ## WordpressテーマTwenty twoのカスタマイズ方法はどうやって？
 

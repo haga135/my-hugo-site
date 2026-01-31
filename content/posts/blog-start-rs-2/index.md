@@ -6,7 +6,7 @@ categories = ["wordpress"]
 thumbnail = "images/thumbnail-2.png"
 +++
 
-![](images/shared/blackcat.webp)
+
 
 ## プロキシサーバーをインストール、設定
 

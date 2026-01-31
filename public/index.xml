@@ -62,35 +62,35 @@
       <link>http://localhost:1313/posts/blog-start-rs-3/</link>
       <pubDate>Sat, 22 Jun 2024 02:52:00 +0900</pubDate>
       <guid>http://localhost:1313/posts/blog-start-rs-3/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;images/shared/blackcat.webp&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;wordpressテーマtwenty-twoのカスタマイズ方法はどうやって&#34;&gt;WordpressテーマTwenty twoのカスタマイズ方法はどうやって？&lt;/h2&gt;&#xA;&lt;p&gt;ローカル環境にWordpressをインストールして、眺めてみたり、どこかへ出掛けたときの写真を投稿していたのですが、カスタマイズのやり方がさっぱりわからず、適当な記事を書いて個人的に楽しむだけで、とても他人に見せるようなものではありませんでした。&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;wordpressテーマtwenty-twoのカスタマイズ方法はどうやって&#34;&gt;WordpressテーマTwenty twoのカスタマイズ方法はどうやって？&lt;/h2&gt;&#xA;&lt;p&gt;ローカル環境にWordpressをインストールして、眺めてみたり、どこかへ出掛けたときの写真を投稿していたのですが、カスタマイズのやり方がさっぱりわからず、適当な記事を書いて個人的に楽しむだけで、とても他人に見せるようなものではありませんでした。&lt;/p&gt;</description>
     </item>
     <item>
       <title>このブログを始めるきっかけについてその2</title>
       <link>http://localhost:1313/posts/blog-start-rs-2/</link>
       <pubDate>Sat, 24 Feb 2024 20:58:16 +0900</pubDate>
       <guid>http://localhost:1313/posts/blog-start-rs-2/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;images/shared/blackcat.webp&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;プロキシサーバーをインストール設定&#34;&gt;プロキシサーバーをインストール、設定&lt;/h2&gt;&#xA;&lt;p&gt;サーバに正常にwebアクセスできるようになったので、プロキシサーバをインストールします。squidという有名なプロキシサーバー用のソフトウエアです。squidの設定ファイルを自身の環境に合わせて設定します。ネットの情報を元に設定していきました。最終行に追記するだけで良かったようですが、該当箇所をコメントアウトして直後に追記しました。&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;プロキシサーバーをインストール設定&#34;&gt;プロキシサーバーをインストール、設定&lt;/h2&gt;&#xA;&lt;p&gt;サーバに正常にwebアクセスできるようになったので、プロキシサーバをインストールします。squidという有名なプロキシサーバー用のソフトウエアです。squidの設定ファイルを自身の環境に合わせて設定します。ネットの情報を元に設定していきました。最終行に追記するだけで良かったようですが、該当箇所をコメントアウトして直後に追記しました。&lt;/p&gt;</description>
     </item>
     <item>
       <title>このブログを始めるきっかけについて</title>
       <link>http://localhost:1313/posts/blog-start-rs/</link>
       <pubDate>Sat, 24 Feb 2024 15:23:00 +0900</pubDate>
       <guid>http://localhost:1313/posts/blog-start-rs/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;images/shared/blackcat.webp&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;お名前vpsサーバを契約&#34;&gt;お名前vpsサーバを契約&lt;/h2&gt;&#xA;&lt;p&gt;Wordpressバージョン5.9以前からローカル環境にWordpressをインストールして眺めてみたり、記事を書いてみたりしていました。ブロックエディターの使い方が全くわからずスマートフォンで撮った写真を投稿する程度の使い方しかしていません。&lt;/p&gt;</description>
+      <description>&lt;p&gt;Wordpressバージョン5.9以前からローカル環境にWordpressをインストールして眺めてみたり、記事を書いてみたりしていました。ブロックエディターの使い方が全くわからずスマートフォンで撮った写真を投稿する程度の使い方しかしていません。&lt;/p&gt;</description>
     </item>
     <item>
       <title>【WordPress】ショートコードで投稿IDやスラッグから記事の内部リンクを作成する</title>
       <link>http://localhost:1313/posts/add-postlink/</link>
       <pubDate>Sat, 10 Feb 2024 11:02:38 +0900</pubDate>
       <guid>http://localhost:1313/posts/add-postlink/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/shared/blackcat.webp&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;投稿記事へのリンクを設置したい&#34;&gt;投稿記事へのリンクを設置したい&lt;/h2&gt;&#xA;&lt;p&gt;記事にタイトルのリンクを追加するショートコードを作成するサンプルです。&lt;/p&gt;&#xA;&lt;p&gt;ワードプレスでブログをやっていると別の投稿ページへのリンクを設置したいときがありますよね？&lt;/p&gt;&#xA;&lt;p&gt;そんなときどうすれば簡単にリンクを設置する事ができるのか調べてみました！&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;投稿記事へのリンクを設置したい&#34;&gt;投稿記事へのリンクを設置したい&lt;/h2&gt;&#xA;&lt;p&gt;記事にタイトルのリンクを追加するショートコードを作成するサンプルです。&lt;/p&gt;&#xA;&lt;p&gt;ワードプレスでブログをやっていると別の投稿ページへのリンクを設置したいときがありますよね？&lt;/p&gt;&#xA;&lt;p&gt;そんなときどうすれば簡単にリンクを設置する事ができるのか調べてみました！&lt;/p&gt;</description>
     </item>
     <item>
       <title>ワードプレス運用状況</title>
       <link>http://localhost:1313/posts/new-domainname/</link>
       <pubDate>Mon, 05 Feb 2024 18:38:47 +0900</pubDate>
       <guid>http://localhost:1313/posts/new-domainname/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/shared/blackcat.webp&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;wordpressを簡単インストール&#34;&gt;Wordpressを簡単インストール&lt;/h2&gt;&#xA;&lt;p&gt;新しいドメイン（snakewoman.blog）をお名前ドットコムで申し込んだら（０円）、サーバーまで申し込んで契約されていました（有料。(T_T)）&lt;/p&gt;&#xA;&lt;p&gt;しばらく放置して解約するつもりだったのですが、せっかくなのでワードプレスを簡単インストールしてみました。&lt;/p&gt;</description>
+      <description>&lt;p&gt;新しいドメイン（snakewoman.blog）をお名前ドットコムで申し込んだら（０円）、サーバーまで申し込んで契約されていました（有料。(T_T)）&lt;/p&gt;&#xA;&lt;h2 id=&#34;wordpressを簡単インストール&#34;&gt;Wordpressを簡単インストール&lt;/h2&gt;&#xA;&lt;p&gt;しばらく放置して解約するつもりだったのですが、せっかくなのでワードプレスを簡単インストールしてみました。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

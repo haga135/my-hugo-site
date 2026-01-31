@@ -6,12 +6,10 @@ categories = ["wordpress"]
 thumbnail = "images/thumbnail-5.png"
 +++
 
-![](/images/shared/blackcat.webp)
-
-## Wordpressを簡単インストール
 
 新しいドメイン（snakewoman.blog）をお名前ドットコムで申し込んだら（０円）、サーバーまで申し込んで契約されていました（有料。(T_T)）
 
+## Wordpressを簡単インストール
 しばらく放置して解約するつもりだったのですが、せっかくなのでワードプレスを簡単インストールしてみました。
 
 ![](frog2.webp)
