@@ -21,7 +21,7 @@ summaryLength = 100
   # SNSでシェアされた時の説明文（デフォルト）
   description = "日常の出来事を中心とした記事を書いています"
   # あなたのSNSアカウントなど（任意）
-  author = "@komonofr"
+  author = "komonofr"
 
 [services.googleAnalytics]
   # もし将来アナリティクスを使うならここに入れます
