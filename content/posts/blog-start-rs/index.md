@@ -3,7 +3,7 @@ date = '2024-02-24T15:23:00+09:00'
 draft = false
 title = 'このブログを始めるきっかけについて'
 categories = ["wordpress"]
-thumbnail = "/images/thumbnail.png"
+thumbnail = "images/thumbnail.png"
 +++
 
 Wordpressバージョン5.9以前からローカル環境にWordpressをインストールして眺めてみたり、記事を書いてみたりしていました。ブロックエディターの使い方が全くわからずスマートフォンで撮った写真を投稿する程度の使い方しかしていません。
