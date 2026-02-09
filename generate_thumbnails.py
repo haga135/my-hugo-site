@@ -18,7 +18,7 @@ for article in articles:
     
     text = article['title']
     
-    # フォントサイズを設定
+    
     font_size = 70
     try:
         from PIL import ImageFont
@@ -37,6 +37,4 @@ for article in articles:
     folder_path = os.path.join(base_path, article['folder'])
     file_path = os.path.join(folder_path, 'thumbnail.webp')
     img.save(file_path, 'WEBP', quality=95)
-    print(f'✓ {article["folder"]}/thumbnail.webp を生成')
-
-print('✅ すべての画像を生成完了')
+    
